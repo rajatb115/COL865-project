@@ -1,0 +1,4 @@
+,atelectasis,fatty_liver,renal_cysts,liver_cysts,kidney_stones,bladder_stones,distended_bowels,ground_glass
+23.0,False,False,False,False,False,False,False,False
+48.0,False,False,False,False,False,False,False,False
+64.0,False,False,False,False,False,True,False,False
